@@ -81,7 +81,68 @@ I founded [**Project AWARE**](https://www.projectawareai.org/), a New Delhi-base
   </tr>
 </table>
 
-**Other applied systems** &nbsp; [OpenVQ](https://github.com/abdullah-x-bd/openvq), an interpretable speech-quality research engine · [ICR-OPT](https://github.com/abdullah-x-bd/icr-sim), a geospatial and economic model of mobile network sharing.
+<br/>
+
+### More research & software
+
+<sub>ADDITIONAL PUBLIC PROJECTS · ONGOING STUDIES · EXPERIMENTAL TOOLS</sub>
+
+The featured projects above are a selection. The wider portfolio includes research in model behaviour, economic decision-making, reproducible software and applied public policy.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>A / MODEL BEHAVIOUR &amp; EVALUATION</sub>
+      <p><a href="https://github.com/abdullah-x-bd/probe-scent"><strong>Probe Scent</strong></a><br/>
+      <sub>Measuring whether the structure of an opportunity makes a scenario appear evaluation-like to language models.</sub></p>
+      <p><a href="https://github.com/abdullah-x-bd/chile-elite-name-bias-llm-eval"><strong>Status Association &amp; Decision Leakage</strong></a><br/>
+      <sub>Testing when socioeconomic surname associations do, and do not, carry over into matched decisions.</sub></p>
+      <p><a href="https://github.com/abdullah-x-bd/llm-priority-audit"><strong>LLM Priority Audit</strong></a><br/>
+      <sub>Controlled experimental designs for instruction conflict, operational choices and process costs.</sub></p>
+      <p><a href="https://github.com/abdullah-x-bd/llm-nominal-price-invariance"><strong>Nominal Price Invariance</strong></a><br/>
+      <sub>Testing payoff-irrelevant share-price framing in model-generated portfolio decisions.</sub></p>
+      <p><a href="https://github.com/abdullah-x-bd/Enum-Op"><strong>Enumerative Overproduction</strong></a><br/>
+      <sub>Studying when anti-list instructions remove visible lists but leave list-like prose.</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <sub>B / RESEARCH SOFTWARE &amp; ENGINEERING</sub>
+      <p><a href="https://github.com/abdullah-x-bd/PDRS"><strong>Path-Dependent Radix Spaces</strong></a><br/>
+      <sub>Exact rank/unrank representations for finite dependent schemas, with reproducible enumeration.</sub></p>
+      <p><a href="https://github.com/abdullah-x-bd/FinSpace"><strong>FinSpace</strong></a><br/>
+      <sub>Rank-addressable financial scenarios, deterministic test partitions and replayable campaigns.</sub></p>
+      <p><a href="https://github.com/abdullah-x-bd/openvq"><strong>OpenVQ</strong></a><br/>
+      <sub>An independently derived speech-quality research engine with interpretable telecom diagnostics.</sub></p>
+      <p><a href="https://github.com/abdullah-x-bd/icr-sim"><strong>ICR-OPT</strong></a><br/>
+      <sub>Geospatial and economic simulation of mobile network sharing in border and underserved regions.</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>C / ECONOMICS &amp; PUBLIC POLICY</sub>
+      <p><a href="https://github.com/abdullah-x-bd/death-of-local-best"><strong>From Local Scarcity to Machine Abundance</strong></a><br/>
+      <sub>A research design on geographic competence rents, digital markets and generative AI.</sub></p>
+      <p><a href="https://github.com/abdullah-x-bd/sec-cyber-timing"><strong>SEC Cyber Disclosure Timing</strong></a><br/>
+      <sub>A reproducible empirical pipeline for studying corporate cybersecurity disclosure timing.</sub></p>
+      <p><a href="https://github.com/abdullah-x-bd/public_sector-ai_use-survey"><strong>Public Sector AI Use Survey</strong></a><br/>
+      <sub>Paired-choice survey design for accuracy, review and auditing in AI-assisted public decisions.</sub></p>
+      <p><a href="https://github.com/abdullah-x-bd/udise-exposure-study"><strong>UDISE+ Exposure Study</strong></a><br/>
+      <sub>Education microdata pipelines for studying school composition, access and student-weighted exposure.</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <sub>D / EXPLORATIONS &amp; BUILDS</sub>
+      <p><a href="https://github.com/abdullah-x-bd/bluedot-tais-puzzle"><strong>Technical AI Safety Puzzle</strong></a><br/>
+      <sub>A representation-analysis notebook for a classifier's hidden-layer features.</sub></p>
+      <p><a href="https://github.com/abdullah-x-bd/mats-test"><strong>AI Village Analysis</strong></a><br/>
+      <sub>An exploratory investigation of whether stated social constraints persist in agent memories and behaviour.</sub></p>
+      <p><a href="https://github.com/abdullah-x-bd/handwriting"><strong>Hand Magic PDF</strong></a><br/>
+      <sub>Neural handwriting generation and page composition with legibility controls.</sub></p>
+      <p><a href="https://github.com/abdullah-x-bd/AbbasiConnect"><strong>AbbasiConnect</strong></a><br/>
+      <sub>A community platform for family connections, posts and private messaging.</sub></p>
+    </td>
+  </tr>
+</table>
+
+<p align="right"><a href="https://github.com/abdullah-x-bd?tab=repositories">Browse all public repositories ↗</a></p>
 
 <br/>
 
